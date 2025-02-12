@@ -1,6 +1,6 @@
-# 🛒 **SuperMarket Sales Analysis** 📊
+# 🛒 **Store Sales Analysis** 📊
 
-Welcome to the **SuperMarket Sales Analysis** project! This project is all about diving deep into supermarket sales data to uncover insights, trends, and patterns that can help improve business decisions. Whether you're a data enthusiast or a business professional, this project will give you a clear understanding of how data analytics can drive actionable insights.
+Welcome to the **Store Sales Analysis** project! This project is all about diving deep into store sales data to uncover insights, trends, and patterns that can help improve business decisions. Whether you're a data enthusiast or a business professional, this project will give you a clear understanding of how data analytics can drive actionable insights.
 
 ---
 
@@ -55,4 +55,4 @@ Here are some of the key insights from the analysis:
 
 ## 🎉 **Thank You!**
 
-Thank you for checking out my **SuperMarket Sales Analysis** project! I hope you find it insightful and useful. If you like it, don’t forget to ⭐️ star this repository!
+Thank you for checking out my **Store Sales Analysis** project! I hope you find it insightful and useful. If you like it, don’t forget to ⭐️ star this repository!
