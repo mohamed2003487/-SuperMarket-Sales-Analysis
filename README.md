@@ -6,8 +6,9 @@ Welcome to the **SuperMarket Sales Analysis** project! This project is all about
 
 ## 🎥 **Project Demo**
 
-![Project Demo GIF](https://media.giphy.com/media/your-gif-link-here.gif)  
-*(Replace this with a GIF showing your project in action, like a dashboard or analysis process)*
+![Project Demo GIF](https://github.com/user-attachments/assets/559ae339-e9c1-4457-94b1-77ae39645042)
+
+
 
 ---
 
